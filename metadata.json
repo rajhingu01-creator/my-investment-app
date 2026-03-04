@@ -1,0 +1,5 @@
+{
+  "name": "Doraemon: The Futuristic Companion",
+  "description": "A friendly Gujarati-speaking robotic cat assistant with futuristic gadgets.",
+  "requestFramePermissions": ["microphone"]
+}
